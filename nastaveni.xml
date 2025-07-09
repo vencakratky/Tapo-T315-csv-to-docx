@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NASTAVENI>
+  <UPPERLIMIT>35</UPPERLIMIT>    <!-- celé číslo  -->
+  <LOWLIMIT>20</LOWLIMIT>    <!-- celé číslo  -->
+  <Language>EN</Language>    <!-- CZ, EN  -->
+  <place0>Umístění 1</place0>
+  <place1>Umístění 2</place1>
+  <place2>Umístění 3</place2>
+  <place3>Umístění 4</place3>
+  <place4>Umístění 5</place4>
+</NASTAVENI>
