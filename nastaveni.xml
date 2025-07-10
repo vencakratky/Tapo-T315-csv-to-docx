@@ -2,7 +2,7 @@
 <NASTAVENI>
   <UPPERLIMIT>35</UPPERLIMIT>    <!-- celé číslo  -->
   <LOWLIMIT>20</LOWLIMIT>    <!-- celé číslo  -->
-  <Language>EN</Language>    <!-- CZ, EN  -->
+  <Language>CZ</Language>    <!-- CZ, EN  -->
   <place0>Umístění 1</place0>
   <place1>Umístění 2</place1>
   <place2>Umístění 3</place2>
